@@ -62,7 +62,7 @@ This should output /usr/local/bin/geckodriver.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/VEXMAN-hacks/Web-Scraper.git
+   git clone https://github.com/Venukamatchi/-Web-Scrape.git
    cd WebScraper
    ```
 
